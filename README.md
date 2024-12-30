@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Adinair01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋 I'm Aditya Nair
 
-<!---
-Adinair01/Adinair01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Front-End Developer** | Crafting clean, responsive, and interactive user experiences.  
+
+🌐 **Skills:**  
+- 🖌️ HTML, CSS, JavaScript  
+- ⚛️ React.js  
+- 📱 Responsive Design   
+
+📂 **Current Focus:**  
+- Building sleek full-stack projects with html,css ,React, Node.js, and MongoDB.  
+
+🎯 **Goals:**  
+- Master advanced front-end frameworks.  
+- Contribute to open-source projects.  
+
+📫 **Let's Connect:**  
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-nair-72b41721a/))  
+- [Portfolio]([https://yourwebsite.com](https://portfoliobyadityanair.netlify.app/#home))  
+
+Thanks for stopping by! Happy coding! 💻✨
