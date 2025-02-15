@@ -14,8 +14,4 @@
 - Master advanced front-end frameworks.  
 - Contribute to open-source projects.  
 
-📫 **Let's Connect:**  
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-nair-72b41721a/))  
-- [Portfolio]([https://yourwebsite.com](https://portfoliobyadityanair.netlify.app/#home))  
-
 Thanks for stopping by! Happy coding! 💻✨
