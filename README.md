@@ -31,13 +31,27 @@ Currently expanding into full-stack development while keeping UX and performance
 
 ---
 
-### 🚀 What I Bring to the Table
+## 🧰 What I Bring to the Table
 
-✅ Strong understanding of **component-based architecture** and **responsive design**  
-✅ Ability to translate UI/UX designs into production-grade code  
-✅ Experience working on **real-world, client-focused projects**  
-✅ Proficient in building reusable components and scalable frontend structures  
-✅ Collaborative team player who values clean code and performance
+- 🔹 **Robust Front-End Expertise**  
+  Strong command over HTML5, CSS3 (Flexbox, Grid), JavaScript (ES6+), and React.js — I build clean, scalable, and responsive UIs that work seamlessly across devices.
+
+- 🎯 **UI/UX-Driven Development**  
+  With a keen eye for detail, I turn ideas into user-centric interfaces using Figma and Adobe XD — combining aesthetics with functionality.
+
+- ⚡ **Performance & Optimization First**  
+  I prioritize optimized code, fast-loading pages, and cross-browser compatibility to ensure smooth user experiences.
+
+- 🧠 **Creative Problem Solving with a Design Mindset**  
+  Whether it's a dashboard, journaling app, or PDF generator — I blend logic and creativity to deliver solutions that solve real-world problems.
+
+- 🤝 **Collaboration & Communication**  
+  Experienced in working with designers, devs, and mentors during internships and hackathons. Comfortable using Git, GitHub, VS Code, and Chrome DevTools in collaborative setups.
+
+- 🛠️ **Project-Built Confidence**  
+  From developing AI dashboards for Mahindra Research Valley to building BitByBit and HeartScript — I bring hands-on experience, self-initiative, and the mindset of a builder.
+
+
 
 ---
 
