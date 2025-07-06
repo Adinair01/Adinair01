@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | UI Engineer | Passionate Problem Solver</h3>
 
 <p align="center">
-  <a href="[https://portfoliobyadityanair.netlify.app/#home](https://aditya-nair-portfolio.vercel.app/)" target="_blank">🌐 Portfolio</a> • 
+  <a href="(https://aditya-nair-portfolio.vercel.app/)" target="_blank">🌐 Portfolio</a> • 
   📍 Chennai • 
   <a href="mailto:adityanair5002@gmail.com">✉️ Contact Me</a>
 </p>
