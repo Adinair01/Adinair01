@@ -78,7 +78,7 @@ Currently expanding into full-stack development while keeping UX and performance
 
 ### 📫 Let’s Connect!
 
-- 💼 Portfolio: [(https://aditya-nair-portfolio.vercel.app/)]((https://aditya-nair-portfolio.vercel.app/))  
+- 💼 Portfolio: [(https://aditya-nair-portfolio.vercel.app/)](https://aditya-nair-portfolio.vercel.app/)
 - 📧 Email: [adityanair5002@gmail.com](mailto:adityanair5002@gmail.com)  
 - 🔗 GitHub: [github.com/Adinair01](https://github.com/Adinair01)
 
