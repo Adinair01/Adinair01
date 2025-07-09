@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://aditya-nair-portfolio.vercel.app" target="_blank">🌐 Portfolio</a> • 
   📍 Chennai • 
-  <a href="mailto:adityanair5002@gmail.com">✉️ Contact Me</a>
+  <a href="mailto:adityanair5002@gmail.com">✉️ Contact Me through Mail</a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ Currently expanding into full-stack development while keeping UX and performance
 | **Styling**       | TailwindCSS, Styled-Components, Responsive Design                            |
 | **PDF Generation**| jsPDF, html2canvas, react-pdf                                                 |
 | **Tooling**       | Git & GitHub, VS Code, Figma (for UI design)                                 |
-| **Backend (Learning)** | Node.js, MongoDB                                                        |
+| **Backend (Learning)** | Node.js, MongoDB ,Supabase                                                       |
 
 ---
 
@@ -78,7 +78,7 @@ Currently expanding into full-stack development while keeping UX and performance
 
 ### 📫 Let’s Connect!
 
-- 💼 Portfolio: [portfoliobyadityanair.netlify.app](https://portfoliobyadityanair.netlify.app/#home)  
+- 💼 Portfolio: [(https://aditya-nair-portfolio.vercel.app/)]((https://aditya-nair-portfolio.vercel.app/))  
 - 📧 Email: [adityanair5002@gmail.com](mailto:adityanair5002@gmail.com)  
 - 🔗 GitHub: [github.com/Adinair01](https://github.com/Adinair01)
 
