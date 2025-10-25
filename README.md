@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | UI Engineer | Passionate Problem Solver</h3>
 
 <p align="center">
-  <a href="https://aditya-nair-portfolio.vercel.app" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://adityanair.vercel.app" target="_blank">🌐 Portfolio</a> • 
   📍 Chennai • 
   <a href="mailto:adityanair5002@gmail.com">✉️ Contact Me through Mail</a>
 </p>
@@ -23,11 +23,10 @@ Currently expanding into full-stack development while keeping UX and performance
 
 | Category          | Technologies                                                                 |
 |------------------|-------------------------------------------------------------------------------|
-| **Frontend**      | HTML5, CSS3, JavaScript (ES6+), React.js                                     |
-| **Styling**       | TailwindCSS, Styled-Components, Responsive Design                            |
-| **PDF Generation**| jsPDF, html2canvas, react-pdf                                                 |
-| **Tooling**       | Git & GitHub, VS Code, Figma (for UI design)                                 |
-| **Backend (Learning)** | Node.js, MongoDB ,Supabase                                                       |
+| **Frontend**      | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js                                 
+| **Styling**       | TailwindCSS, shadcn.Styled-Components, Responsive Design                                                                          
+| **Tooling**       | Git & GitHub, VS Code, Figma (for UI design)                                 
+| **Backend (Learning)** | Node.js, MongoDB ,Supabase                                                       
 
 ---
 
@@ -55,18 +54,6 @@ Currently expanding into full-stack development while keeping UX and performance
 
 ---
 
-### 📂 Featured Projects
-
-| Project               | Description                                                                 | Tech Stack                    |
-|-----------------------|-----------------------------------------------------------------------------|-------------------------------|
-| [Ed-Tech Login Page](https://github.com/Adinair01/Ed-Tech-Login-page) | Sleek and responsive UI for an education platform login page       | HTML, CSS                     |
-| [Buget-Bazaar](https://github.com/Adinair01/Buget-Bazaar-)         | Student-focused second-hand product marketplace                    | HTML, CSS, JavaScript         |
-| [PDF Generator Tool]() (Private)     | Web app that generates downloadable PDFs using dynamic inputs      | React.js, html2canvas, jsPDF  |
-
-> 📌 *More projects and UI components available on request or visible in pinned repos.*
-
----
-
 ### 🎯 Career Objectives
 
 - 🧠 **Master modern frontend frameworks** like Next.js, TypeScript, and Redux  
@@ -78,7 +65,7 @@ Currently expanding into full-stack development while keeping UX and performance
 
 ### 📫 Let’s Connect!
 
-- 💼 Portfolio: [(https://aditya-nair-portfolio.vercel.app/)](https://aditya-nair-portfolio.vercel.app/)
+- 💼 Portfolio: [(https://adityanair.vercel.app/)](https://aditya-nair-portfolio.vercel.app/)
 - 📧 Email: [adityanair5002@gmail.com](mailto:adityanair5002@gmail.com)  
 - 🔗 GitHub: [github.com/Adinair01](https://github.com/Adinair01)
 
