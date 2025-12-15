@@ -26,7 +26,7 @@ Currently expanding into full-stack development while keeping UX and performance
 | **Frontend**      | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js                                 
 | **Styling**       | TailwindCSS, shadcn.Styled-Components, Responsive Design                                                                          
 | **Tooling**       | Git & GitHub, VS Code, Figma (for UI design)                                 
-| **Backend (Learning)** | Node.js, MongoDB ,Supabase                                                       
+| **Backend** | Node.js, MongoDB ,Supabase                                                       
 
 ---
 
