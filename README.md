@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aditya Nair </h1>
-<h3 align="center">Front-End Developer | UI Engineer | Passionate Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Passionate Problem Solver</h3>
 
 <p align="center">
   <a href="https://adityanair.vercel.app" target="_blank">🌐 Portfolio</a> • 
