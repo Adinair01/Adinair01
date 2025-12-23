@@ -11,8 +11,8 @@
 
 ###  Who Am I?
 
-I'm a Front-End Developer focused on building responsive, accessible, and user-centric interfaces that solve real-world problems.  
-With a strong foundation in HTML, CSS, JavaScript, and React, I combine **pixel-perfect UI design** with **efficient, maintainable code**.
+I'm a Full Stack Developer focused on building responsive, accessible, and user-centric interfaces that solve real-world problems.  
+With a strong foundation in HTML, CSS, JavaScript, and Node.js, I combine **pixel-perfect UI design** with **efficient, maintainable code**.
 
 I take pride in transforming complex ideas into interactive, intuitive web experiences.  
 Currently expanding into full-stack development while keeping UX and performance at the core of everything I build.
@@ -23,9 +23,9 @@ Currently expanding into full-stack development while keeping UX and performance
 
 | Category          | Technologies                                                                 |
 |------------------|-------------------------------------------------------------------------------|
-| **Frontend**      | HTML5, CSS3, JavaScript (ES6+), React.js, Next.js                                 
+| **Frontend**      | HTML5, CSS3, JavaScript (ES6+), Node.js, Express.js                                 
 | **Styling**       | TailwindCSS, shadcn.Styled-Components, Responsive Design                                                                          
-| **Tooling**       | Git & GitHub, VS Code, Figma (for UI design)                                 
+| **Tooling**       | Git & GitHub, VS Code, Figma (for UI design), Postman                                 
 | **Backend** | Node.js, MongoDB ,Supabase                                                       
 
 ---
