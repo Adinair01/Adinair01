@@ -12,7 +12,7 @@
 ###  Who Am I?
 
 I'm a Full Stack Developer focused on building responsive, accessible, and user-centric interfaces that solve real-world problems.  
-With a strong foundation in HTML, CSS, JavaScript, and Node.js, I combine **pixel-perfect UI design** with **efficient, maintainable code**.
+With a strong foundation in HTML, CSS, JavaScript, Node.js and Express.js, I combine **pixel-perfect UI design** with **efficient, maintainable code**.
 
 I take pride in transforming complex ideas into interactive, intuitive web experiences.  
 Currently expanding into full-stack development while keeping UX and performance at the core of everything I build.
