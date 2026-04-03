@@ -27,7 +27,7 @@
 
 ```yaml
 name: Aditya Nair
-role: Backend Engineer
+role: Full Stack Engineer(Back-end Focused)
 location: India
 focus: Scalable distributed systems & AI-driven solutions
 
