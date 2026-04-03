@@ -1,18 +1,100 @@
-# 💫 About Me:
-Hi, I’m Aditya — a backend developer passionate about building scalable systems and solving real-world problems. I enjoy working with Node.js, Express, and databases, and I’m currently exploring advanced system design and AI-driven solutions.I focus on solving meaningful problems through clean architecture and practical solutions.
+```
+     _       _ _ _                _   _       _
+    / \   __| (_) |_ _   _  __ _| \ | | __ _(_)_ __
+   / _ \ / _` | | __| | | |/ _` |  \| |/ _` | | '__|
+  / ___ \ (_| | | |_| |_| | (_| | |\  | (_| | | |
+ /_/   \_\__,_|_|\__|\__, |\__,_|_| \_|\__,_|_|_|
+                      |___/
+```
 
+### Backend Engineer · Systems Thinker · Builder
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fithustler01/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adinair01/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@adityanair5002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityanair5002@gmail.com) 
+I design and build backend systems that don't page you at 3 AM.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=flat&logo=zigbee&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adinair01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adinair01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adinair01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+5+ years of turning "it works on my machine" into "it works at scale." I care about clean abstractions, observable systems, and shipping things that matter.
+
+Currently deep in **distributed systems design** and **AI-augmented infrastructure**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adinair01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### What I'm working with
+
+**Day-to-day:** `Node.js` · `Express` · `FastAPI` · `Python` · `TypeScript` · `Java`
+
+**Data:** `MongoDB` · `MySQL` · `DynamoDB` · `Supabase` · `Redis`
+
+**Infra & Cloud:** `AWS` · `GitHub Actions` · `Docker` · `CI/CD pipelines`
+
+**Frontend (when needed):** `React` · `Next.js` · `Vue` · `Tailwind`
+
+**ML/Data:** `PyTorch` · `TensorFlow` · `scikit-learn` · `Pandas` · `MLflow`
+
+**Toolkit:** `Git` · `Postman` · `Socket.io` · `JWT` · `Figma` · `Power BI`
+
+---
+
+#### How I think about engineering
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   "Make it work. Make it right. Make it fast."          │
+│                          — Kent Beck                    │
+│                                                         │
+│   I'd add: Make it observable. Then go home on time.    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+- I optimize for **clarity over cleverness** — the best code is the code your teammate understands at 2 AM during an incident.
+- I believe in **boring technology** for critical paths and **interesting technology** where it compounds.
+- I write systems that fail gracefully, log meaningfully, and recover automatically.
+
+---
+
+#### Things I've built & care about
+
+- 🏗️ **Scalable API architectures** — RESTful & event-driven systems handling real production load
+- 🔐 **Auth systems** — JWT-based flows, OAuth integrations, role-based access control
+- ⚡ **Real-time systems** — WebSocket-driven features with Socket.io
+- 📊 **Data pipelines** — ETL workflows, analytics dashboards, ML model serving
+- 🧪 **Testing culture** — Unit, integration, and contract testing as a first-class habit
+
+---
+
+#### Current rabbit holes
+
+```
+→ Advanced system design patterns (CQRS, event sourcing, saga orchestration)
+→ AI/ML integration into backend services
+→ Performance profiling & optimization at scale
+→ Contributing to open source tooling
+```
+
+---
+
+#### GitHub at a glance
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=adinair01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff&title_color=58a6ff" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adinair01&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinair01&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff" width="400" />
+
+---
+
+#### Let's connect
+
+I write about backend engineering, system design, and lessons from production on **[Medium](https://medium.com/@adityanair5002)**.
+
+Open to collaborating on interesting backend/infra problems — or just talking shop.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinair01/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityanair5002)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fithustler01/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityanair5002@gmail.com)
+
+---
+
+<sub>I don't count commits. I count systems that stay up.</sub>
