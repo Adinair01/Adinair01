@@ -143,15 +143,6 @@ ETL workflows, analytics dashboards, model serving endpoints, and AI-augmented b
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TROPHIES -->
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adinair01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-
-</div>
-
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
