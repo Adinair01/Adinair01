@@ -119,22 +119,6 @@ ETL workflows, analytics dashboards, model serving endpoints, and AI-augmented b
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GITHUB STATS -->
-## 📈 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/adinair01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adinair01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinair01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</a>
-
-<br/>
-
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=adinair01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
-
-<br/><br/>
-
 <!-- ACTIVITY GRAPH -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adinair01&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
 
